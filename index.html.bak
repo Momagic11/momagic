@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html lang= "eng">
+
+<head>
+  
+      <title> Mo magic </title> <!-- New Mo magic website --> <!-- Kevin Mohan student at Gateway Community College -->
+  
+      <meta charset="utf-8"/>
+  
+</head>
+  
+<body>
+	
+<div id="header"> 
+  
+    <h1> Welcome To Mo magic! </h1>
+    <hr>
+    <br>
+  
+      <img scr= "C:\Users\Mo\OneDrive\Documents\Gateway\Website Design\Mo magic\images" alt = "Mo magic Logo" Height 125 width 150" img>
+  
+</div>
+
+  <nav> <p> About &nbsp; &#9475; Photos &nbsp; &#9475; Videos &nbsp; &#9475; Contact </p> </nav>
+  
+  <main> 
+    <p>Text</p>
+  
+  
+ 
+ 
+	
+ 
+  </main>
+ 
+   <a href=  "https://gatewayct.edu/images/Departments/About/Map.png" target = "_blank">
+   map
+   </a>
+
+<br>
+<br>
+<br>
+   
+   <a href= "mailto:momagic1@icloud.com" target="_blank" title= "Email Mo magic!">
+   Email
+   </a>
+  
+  <footer> 
+  
+    <p> &copy; Copyright 2022 All Rights Reserved. </p> 
+	
+	</footer>
+
+
+
+
+</body>
+ 
+ 
+</html>
